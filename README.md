@@ -33,3 +33,12 @@ O GitHub Pages é frequentemente usado por desenvolvedores e equipes de desenvol
 Além disso, o GitHub Pages também suporta Jekyll, um gerador de sites estáticos que permite que você crie um site mais complexo com menos esforço, oferecendo recursos como geração automática de páginas e layouts.
 
 
+### Backlog
+Futuras features
+
+Modo noturno
+
+Versão em ingles
+
+Lista de tecnologias
+
